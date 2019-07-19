@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+
+body {
+  font: 10px sans-serif;
+}
+
+.axis path, .axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+
+.letter-F {
+	fill: green;
+	font-weight: bold;
+}
+.letter-A {
+    fill: blue;
+    font-weight: bold;
+}
+.letter-I {
+    fill: red;
+    font-weight: bold;
+}
+.letter- {
+    fill: yellow;
+    font-weight: bold;
+}
